@@ -54,15 +54,15 @@ As shown by the summary statistics below, we can address the following:
 
 Lot 1: Assuming our significance level was the common 0.05 percent, our p-value is above our significance level. Therefore, we do not have sufficient evidence to reject the null hypothesis, and we would state that the two means are statistically similar.
 
-<img width="693" alt="Screen Shot 2022-03-30 at 7 21 29 PM" src="https://user-images.githubusercontent.com/93015602/160963348-c76625d8-5b41-451c-a513-25388f2e8516.png">
+<img width="706" alt="Screen Shot 2022-03-30 at 7 21 19 PM" src="https://user-images.githubusercontent.com/93015602/160963352-7566619c-fd75-46be-b920-f303c02b42a4.png">
 
 Lot 2: Assuming our significance level was the common 0.05 percent, our p-value is above our significance level. Therefore, we do not have sufficient evidence to reject the null hypothesis, and we would state that the two means are statistically similar.
 
-<img width="706" alt="Screen Shot 2022-03-30 at 7 21 19 PM" src="https://user-images.githubusercontent.com/93015602/160963352-7566619c-fd75-46be-b920-f303c02b42a4.png">
+<img width="693" alt="Screen Shot 2022-03-30 at 7 21 29 PM" src="https://user-images.githubusercontent.com/93015602/160963348-c76625d8-5b41-451c-a513-25388f2e8516.png">
 
 Lot 3: Assuming our significance level was the common 0.05 percent, our p-value is BELOW our significance level. Therefore, we do have sufficient evidence to reject the null hypothesis, and we would state that the two means are statistically DIFFERENT.
 
-<img width="740" alt="Screen Shot 2022-03-30 at 6 52 58 PM" src="https://user-images.githubusercontent.com/93015602/160963355-7a256765-6dfd-4835-8802-68bb7b2b5bf8.png">
+<img width="708" alt="Screen Shot 2022-03-30 at 8 00 22 PM" src="https://user-images.githubusercontent.com/93015602/160967658-74a3dff3-71a3-46a3-9471-516fbdcab5b5.png">
 
 
 ## Study Design: MechaCar vs Competition
