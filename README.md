@@ -67,7 +67,18 @@ Lot 3: Assuming our significance level was the common 0.05 percent, our p-value 
 
 ## Study Design: MechaCar vs Competition
 
+1. What metric or metrics are you going to test?
+- Metrics to be tested include independent variable such as MSRP, MPG, Towing capacity, and safety ratings. These variable should be compared to total vehicle sales as the dependent variable. 
 
-## Summary:
+2. What is the null hypothesis or alternative hypothesis?
+- The null hypothesis (H_o) states there is no statistically significant difference between MechaCar vs Competition.
+- The alternative hypothesis (H_a) states there is statistically significant difference between MechaCar vs Competition.
 
-Additional Study Design Description: 
+3. What statistical test would you use to test the hypothesis? And why?
+- First, I would perferm a multiple linear regression analysis because we are evaluating multiple independent variables simultaneously to determine the degree of association of each independent variable. 
+
+- Second, I would perform a chi-squared test with A/B groups that combine different combinations of features to determine which set of features drive the greatest level of sales. 
+
+4. What data is needed to run the statistical test?
+
+- Data that is needed to run the statistical test includes the number of sales of each vehicle that have the specific variable discussed above as well as P-values to determine the significance of each independent variable with respect to sales. 
