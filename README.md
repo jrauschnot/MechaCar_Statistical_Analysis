@@ -5,7 +5,7 @@ An analysis of car data using RStudio and R Console.
 
 ## Resources:
 
-* Data Sources:
+* Data Sources: MechaCar_mpg.csv, Suspension_Coil.csv
 
 * Software: RStudios, R Console
 
