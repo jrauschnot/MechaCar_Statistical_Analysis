@@ -27,8 +27,24 @@ As shown by the summary statistics below, we can address the following:
 
 
 
-2.
-3.
+2. Summary Statistics on Suspension Coils
+
+- total_summary
+
+<img width="704" alt="Screen Shot 2022-03-30 at 3 17 34 PM" src="https://user-images.githubusercontent.com/93015602/160940511-7d09334c-ed48-4815-b1d4-4e39a6e7a9aa.png">
+
+<img width="697" alt="Screen Shot 2022-03-30 at 3 17 46 PM" src="https://user-images.githubusercontent.com/93015602/160940514-08122e08-6371-415f-8994-1cd92aeb75c5.png">
+
+- lot_summary
+
+<img width="657" alt="Screen Shot 2022-03-30 at 3 34 34 PM" src="https://user-images.githubusercontent.com/93015602/160942164-c0b1e633-cfc2-41ad-90fa-f30c4c981edc.png">
+
+<img width="666" alt="Screen Shot 2022-03-30 at 3 34 23 PM" src="https://user-images.githubusercontent.com/93015602/160942169-72be219d-ad15-42ce-a976-dd6bbabf044b.png">
+
+- According the the lot_summary as shown above, LOT 1 and 2 does meet specificiations, however, LOT 3 does NOT meet design specifications. 
+
+
+3. T-Tests on Suspension Coils
 
 
 ## Summary:
